@@ -18,8 +18,8 @@ header{
 }
 
 .logo{
-    width:180px;
-    max-width:100%;
+    width:160px;
+    max-width:99%;
     margin-bottom:15px;
 }
 
@@ -62,8 +62,8 @@ ol li{
 }
 
 .affiche{
-    width:350px;
-    max-width:100%;
+    width:330px;
+    max-width:99%;
     border-radius:15px;
     margin:10px;
     box-shadow:0 0 10px rgba(0,0,0,0.2);
