@@ -41,7 +41,7 @@ nav a:hover{
 }
 
 section{
-    padding:30px;
+    padding:15px;
 }
 
 h2{
@@ -63,7 +63,7 @@ ol li{
 
 .affiche{
     width:330px;
-    max-width:99%;
+    max-width:59%;
     border-radius:15px;
     margin:10px;
     box-shadow:0 0 10px rgba(0,0,0,0.2);
